@@ -34,4 +34,4 @@ jobs:
           msbuild.exe DSA_Homework1.sln /p:platform="Any CPU" /p:configuration="Release"
 
       - name: Run Tests
-        run: vstest.console.exe DSA_Homework1\bin\Release\DSA_Homework1.exe
+        run: vstest.console.exe bin\Release\DSA_Homework1.exe
