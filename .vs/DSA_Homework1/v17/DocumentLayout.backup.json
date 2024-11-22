@@ -1,25 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\",
+  "WorkspaceRootPath": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|c:\\users\\hudas\\desktop\\dsa-homework1-2024\\testclasses\\convertertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:testclasses\\convertertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\testclasses\\searchertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:testclasses\\searchertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\homeworkclasses\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\homeworkclasses\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:homeworkclasses\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\homeworkclasses\\searcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\homeworkclasses\\searcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F8AC35-59A8-48C4-BA85-48B4F8296883}|DSA_Homework1.csproj|solutionrelative:homeworkclasses\\searcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,64 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConverterTest.cs",
-              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\TestClasses\\ConverterTest.cs",
-              "RelativeDocumentMoniker": "TestClasses\\ConverterTest.cs",
-              "ToolTip": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\TestClasses\\ConverterTest.cs*",
-              "RelativeToolTip": "TestClasses\\ConverterTest.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBwAAABZAAAAAAAAAA==",
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\HomeworkClasses\\Converter.cs",
+              "RelativeDocumentMoniker": "HomeworkClasses\\Converter.cs",
+              "ToolTip": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\HomeworkClasses\\Converter.cs",
+              "RelativeToolTip": "HomeworkClasses\\Converter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:29:48.943Z",
+              "WhenOpened": "2024-11-01T09:04:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Searcher.cs",
+              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\HomeworkClasses\\Searcher.cs",
+              "RelativeDocumentMoniker": "HomeworkClasses\\Searcher.cs",
+              "ToolTip": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\HomeworkClasses\\Searcher.cs",
+              "RelativeToolTip": "HomeworkClasses\\Searcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:03:57.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearcherTest.cs",
-              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\TestClasses\\SearcherTest.cs",
-              "RelativeDocumentMoniker": "TestClasses\\SearcherTest.cs",
-              "ToolTip": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\TestClasses\\SearcherTest.cs",
-              "RelativeToolTip": "TestClasses\\SearcherTest.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDMAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:29:29.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Converter.cs",
-              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\HomeworkClasses\\Converter.cs",
-              "RelativeDocumentMoniker": "HomeworkClasses\\Converter.cs",
-              "ToolTip": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\HomeworkClasses\\Converter.cs",
-              "RelativeToolTip": "HomeworkClasses\\Converter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:04:58.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Searcher.cs",
-              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\HomeworkClasses\\Searcher.cs",
-              "RelativeDocumentMoniker": "HomeworkClasses\\Searcher.cs",
-              "ToolTip": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\HomeworkClasses\\Searcher.cs",
-              "RelativeToolTip": "HomeworkClasses\\Searcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:03:57.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hudas\\Desktop\\DSA-Homework1-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\hudas\\Desktop\\My Homeworks\\DSA-Homework1-2024\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:01:59.871Z"
+              "WhenOpened": "2024-11-01T09:01:59.871Z",
+              "EditorCaption": ""
             }
           ]
         }
