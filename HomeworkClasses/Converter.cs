@@ -12,12 +12,13 @@ namespace DSA_Homework1.HomeworkClasses
         {
             // TODO: convert decimal number to binary code using recursion
             string res = string.Empty;
-if (decimalNumber > 1)
-{
-    res += DecimalToBinary(decimalNumber / 2);
-}
-if (decimalNumber % 2 == 0) return res + "0";
-return res + "1";
+            if (decimalNumber > 1)
+                res += DecimalToBinary(decimalNumber / 2);
+            
+            if (decimalNumber % 2 == 0) 
+                return res + "0";
+            
+            return res + "1";
         }
     }
 }
