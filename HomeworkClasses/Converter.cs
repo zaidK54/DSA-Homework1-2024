@@ -11,7 +11,13 @@ namespace DSA_Homework1.HomeworkClasses
         public string DecimalToBinary(int decimalNumber)
         {
             // TODO: convert decimal number to binary code using recursion
-            throw new NotImplementedException();
+            string res = string.Empty;
+if (decimalNumber > 1)
+{
+    res += DecimalToBinary(decimalNumber / 2);
+}
+if (decimalNumber % 2 == 0) return res + "0";
+return res + "1";
         }
     }
 }
